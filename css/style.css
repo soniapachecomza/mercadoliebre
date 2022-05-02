@@ -1,0 +1,603 @@
+.primero{
+  background-color: #fff;
+}
+header{
+    border: 1px solid #fbbc02;
+    background-color: #fbbc02;
+    height: 130px;
+}
+
+.imagen{
+    width: 188px;
+}
+
+.search{
+  margin-left: 500px;
+  margin-top: -39px;
+
+}
+.fa-magnifying-glass{
+  color: rgb(122, 122, 122);
+  position:absolute;
+  padding: 46px;
+  right: 455px;
+  top: 4px;
+}
+.text{
+  padding-left: 46px;
+  padding-top: 8px;
+  list-style: none;
+  float: right;
+  margin-right: 597px;
+  
+}
+#menu3{
+  background-color: #fbbc02;
+  
+}
+.menu{
+  list-style: none;
+  display: inline-flex;
+  padding-left: 16px;
+  padding-top: 55px;
+}
+.menu-sup{
+  position: absolute;
+ right: 6px;
+
+}
+.nav-items{
+  position:absolute;
+  margin: 235px;
+  top: -464px;
+  bottom: 30px;
+}
+.nav-item2{
+  left: -456px;
+}
+#navbar2{
+  position: absolute;
+
+}
+h2, h3, h4{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Roboto Slab', sans-serif;
+    font-style: bold;
+}
+h5{
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+}
+.banner{
+    width: 1295px;
+    margin-left: -38px;
+    margin-top: -16px;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+}
+#menu2{
+  background:transparent;
+  border: 1px solid transparent;
+  color: #0a0a0a;
+  margin-top: 1px;
+}
+.d-flex{
+  padding: 20px;
+  text-align: center;
+}
+.card-body{
+    margin-left: 238px;
+}
+
+
+.container {
+    display: flex;
+    bottom: 180px;
+ }
+.segundo{
+    background-color: #fff;
+
+}
+.btn{
+    -webkit-border-radius: 6;
+    -moz-border-radius: 6;
+    border-radius: 6px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    background: #3498db;
+    padding: 9px 20px 10px 20px;
+    text-decoration: none;
+    right: -1px;
+    position: relative;
+    cursor: pointer;
+    float: right;
+    left: -3px;
+    top: -20px;
+}
+
+#img1{
+    opacity: 1;
+}
+.btn:hover {
+    text-decoration: none;
+}
+.productos{
+    margin: -220px;
+    text-align: center;
+    font-size: 16px;
+}
+.card-img{
+    height: 455px;
+    width: 50px;
+    display: inline-flex;
+    margin: 0px auto;
+
+    
+}
+.oferta{
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+    margin: 50px;
+}
+.column{
+    height: 350px;
+    width: 30%;
+    border: 2px solid rgba(177,177,177,0.99);
+    border-radius: 13px 13px 13px 13px;
+    -webkit-border-radius: 13px 13px 13px 13px;
+    -moz-border-radius: 13px 13px 13px 13px;
+    border-radius: 13px 13px 13px 13px;
+    margin: 6px;
+}
+.destacado{
+    height: 349px;
+    width: 48%;
+    border: 2px solid rgba(177,177,177,0.99);
+    border-radius: 13px 13px 13px 13px;
+    -webkit-border-radius: 13px 13px 13px 13px;
+    -moz-border-radius: 13px 13px 13px 13px;
+    border-radius: 13px 13px 13px 13px;
+    margin: 6px;
+    display: inline-block;
+}
+#centro{
+  top: 120px;
+}
+.electro{
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 19px;
+    font-style: bold;
+    display: block;
+    width: -200px;
+    margin-top: -215px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.amarillo{
+    background-color: #fbbc02;
+}
+.blanco{
+    background-color:#ffffff;
+    border: 6px solid #FBBC02;
+    border-radius: 26px;
+    margin-top: 150px;
+    margin-left: 380px;
+    margin-right: 380px;
+    height: 380px;
+}
+.datos{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    margin-left: 60px;
+}
+.btn1{
+    font-family: 'times new roman';
+    font-weight: bold;
+    color: #FFFFFF !important;
+    font-size: 13px;
+    text-shadow: 0px 0px 0px #9F21DE;
+    box-shadow: 0px 0px 0px #F9F8F7;
+    padding: 11px 29px;
+    border-radius: 20px;
+    border: 0px solid #3866A3;
+    background: #8915EE;
+    margin-left: 250px;
+}
+.btn1:hover {
+    color: #FFFFFF !important;
+    background: #C317CF;
+}
+.imagen1{
+    width: 180px;
+    top: 15px;
+    margin-left: 200px;
+}
+#nombre{
+    width: 290px; 
+}  
+#email{
+    width: 315px;
+}
+#contraseña{
+    width: 260px;
+}
+.encabezado{
+    margin-top: 80px;
+}
+  
+.testbutton {
+    font-family: helvetica;
+    color: #000000 !important;
+    font-size: 16px;
+    padding: 15px 250px;
+    border-radius: 2px;
+    border: 2px solid #7D8891;
+    background: #f7f6f5;
+    float: left;
+    left: 400px;
+    position: absolute;
+    margin-top:-98px;
+    cursor: pointer;
+}
+.testbutton a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: black;
+}
+.testbutton:hover {
+    color: #14396A !important;
+    background: #fcfcfc;
+  }
+.card-img-top:hover{
+  opacity: 0.3;
+}
+.card-body{
+    font-size: 12px;
+    font-style: bold;
+    position: relative;
+}
+.card-body1{
+  position: absolute;
+  bottom: 270px;
+  margin-left: 150px;
+}
+/*--------------------------------------------------------------
+# modal
+--------------------------------------------------------------*/
+.modal-content{
+  background-color: #fbbc02;
+}
+.modal-body{
+  height: 300px;
+}
+.modal-header{
+  background-color: #fff;
+}
+.modal-title{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  
+}
+.inicio{
+  background-color:#fbbc02;
+  position: relative;
+}
+.yellow{
+  
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  border: 2px solid #fbbc02;
+  border-radius: 31px;
+  width: 432px;
+  height: 268px;
+  right: 16px;
+  
+}
+.datos2{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 12px;
+  color: rgb(0, 0, 0);
+  margin-top: 10px;
+  
+}
+.imagen2{
+  width:155px;
+  margin-left: 123px;
+  margin-top: -39px;
+  position: absolute;
+}
+.registro2{
+  margin-top: 65px;
+  font-size: 8px;
+  margin-right: 80px;
+}
+.info2{
+  
+  padding:-12px;
+  
+  
+}
+#name{
+ 
+  width: 250px;
+}
+#mail{
+  width: 264px;
+}
+#codigo{
+  width: 230px;
+}
+/*--------------------------------------------------------------
+# registro
+--------------------------------------------------------------*/
+
+.amarillo{
+  background-color: #fbbc02;
+}
+.blanco{
+  background-color:#ffffff;
+  border: 6px solid #FBBC02;
+  border-radius: 26px;
+  margin-top: 110px;
+  margin-left: 380px;
+  margin-right: 380px;
+  height: 400px;
+  position: relative;
+}
+.datos{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  color: rgb(0, 0, 0);
+  margin-left: 100px;
+  
+}
+
+.btn1{
+  font-family: 'times new roman';
+  font-weight: bold;
+  color: #FFFFFF !important;
+  font-size: 13px;
+  text-shadow: 0px 0px 0px #9F21DE;
+  box-shadow: 0px 0px 0px #F9F8F7;
+  padding: 11px 29px;
+  border-radius: 20px;
+  border: 0px solid #3866A3;
+  background: #8915EE;
+  margin-left: 236px;
+}
+.btn1:hover {
+  color: #FFFFFF !important;
+  background: #C317CF;
+}
+.imagen1{
+  width: 180px;
+  top: 1px;
+  margin-left: 200px;
+}
+#nombre{
+  width: 230px; 
+  margin-top: -20px;
+  margin-right: -102px;
+}  
+#email{
+  width: 252px;
+  margin-top: -10px;
+  margin-right: -102px;
+
+}
+#contraseña{
+  width: 205px;
+  margin-top: -20px;
+  margin-right: -102px;
+
+}
+.encabezado{
+  margin-top: 50px;
+ 
+}
+.registro h4{
+  text-align: center;
+  margin-left: -100px;
+  margin-top: 10px;
+
+}
+.form{
+  margin-right: 190px;
+}
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+footer{
+  background-color: #fff;
+  
+}
+#footer {
+  background-color: #fff;
+  color: rgb(43, 39, 39);
+  font-size: 14px;
+  margin: 0 auto;
+  display: inline-block;
+  
+}
+.formulario {
+  position: relative;
+  right: -445px;
+  
+}
+#footer li {
+  list-style:none;
+  
+}
+#footer .footer-top {
+  padding: 20px 0 ;
+
+}
+#footer-links{
+  margin-right: 50px;
+ 
+}
+#footer .footer-top .footer-contact {
+  margin-bottom: 10px;
+
+}
+#footer .footer-top .footer-contact h3 {
+  font-size: 26px;
+  line-height: 1;
+  font-weight: 700;
+  
+}
+
+#footer .footer-top .footer-contact p {
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 0;
+  font-family: "Raleway", sans-serif;
+  
+}
+#footer .footer-top h4 {
+  font-size: 16px;
+  font-weight: bold;
+  position: relative;
+  padding-bottom: 12px;
+  
+}
+#footer .footer-top h4::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 20px;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  
+}
+#footer .footer-top .footer-links {
+  margin-bottom: 30px;
+  
+}
+#footer .footer-top .footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background-color: #fff;
+
+}
+#footer .footer-top .footer-links ul i {
+  padding-right: 2px;
+  color: white;
+  font-size: 18px;
+  line-height: 1;
+  
+}
+#footer .footer-top .footer-links ul li {
+  padding: 10px 0 ;
+  display: flex;
+  align-items: center;
+  
+}
+#footer .footer-top .footer-links ul li:first-child {
+  padding-top: 0;
+  
+}
+#footer .footer-top .footer-links ul a {
+  color: #aaaaaa;
+  transition: 0.3s;
+  display: inline-block;
+  line-height: 1;
+  
+}
+#footer .footer-top .footer-links ul a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+#footer-newsletter{
+  position: relative;
+ display: inline-block;
+  left: 456px;
+  bottom: 145px;
+ 
+}
+#footer-newsletter h4{
+  right: 225px;
+}
+#footer-newsletter{
+  font-size: 15px;
+  padding-right: 20px;
+
+}
+#footer .footer-newsletter h4 {
+  font-size: 16px;
+  font-weight: bold;
+  position: relative;
+  padding-bottom: 12px;
+}
+#footer .footer-newsletter form {
+  margin-top: 30px;
+  background: #fff;
+  padding: 5px 10px;
+  position: relative;
+  border-radius: 4px;
+  text-align: left;
+  background-color: #fff;
+}
+form{
+  float: right;
+  margin-top: 1px;
+}
+#footer .footer-newsletter form input[type=email] {
+  border: 0;
+  padding: 4px 8px;
+  width: calc(100% - 100px);
+}
+#footer .footer-newsletter form input[type=submit] {
+  position: absolute;
+  top: 0;
+  right: -1px;
+  bottom: 0;
+  border: 0;
+  background: none;
+  font-size: 16px;
+  padding: 0 20px;
+  background: #e03a3c;
+  color: #fff;
+  transition: 0.3s;
+  border-radius: 0 4px 4px 0;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+}
+#footer .footer-newsletter form input[type=submit]:hover {
+  background: #e35052;
+}
+
+
+#footer .social-links a:hover {
+  background: #e03a3c;
+  color: #fff;
+  text-decoration: none;
+}
+#btn1{
+  background:#3a79cc;
+  color: #fff;
+}
+.cuarto{
+  background-color: #fff;
+}
+@media screen and(min-width: 768px) and(max-width: 1023px){
+  h4{
+    position: relative;
+    padding-top: -483px;
+  }
+  footer{
+    display: block;
+    margin-left: -15px;
+  }
+}
+@media screen and(min-width: 481px) and(max-width:767px){
+
+}
